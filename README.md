@@ -1,7 +1,7 @@
 # Stereo_SLAM_AR
 This is SLAM AR with ZED Stereo Camera on Ubuntu 14.04.
 
-It runs as Marker-Less AR mode at first, press 'space' button to start SLAM-AR mode.
+It runs as MarkerLess-AR mode at first, press 'space' button to start SLAM-AR mode.
 <p align="center">
 <img src="https://github.com/ygx2011/Stereo_SLAM_AR/blob/master/pic/StereoSLAMAR.png?raw=true" alt="DepthAR-zed" width="260" height="180" border="50"/>
 </p>
